@@ -87,7 +87,7 @@ To run the interactive web application:
 ---
 
 ## 📂 Project Structure
-.
+```.
 ├── app.py                   # The Streamlit web application
 ├── development.ipynb  # Jupyter Notebook for development and experimentation
 ├── ml-latest-small/         # MovieLens dataset folder (must be downloaded)
@@ -95,7 +95,7 @@ To run the interactive web application:
 │   ├── ratings.csv
 │   └── ...
 └── README.md                # This README file
-
+```
 ---
 
 ## 💻 Key Technologies
